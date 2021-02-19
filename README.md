@@ -2,4 +2,4 @@
 
 Get_next_line graded 102 by the holy moulinette on December 24, 2020. *GNL to be optimized tough.* 
 
-The test-main.c file tests the project GNL without bonuses.
+The `test-main.c` file tests the project GNL without bonuses.
