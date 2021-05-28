@@ -1,0 +1,4 @@
+#files to be ignored :
+*a.out*
+*.vscode*
+*.o*
