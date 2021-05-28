@@ -1,7 +1,7 @@
 #include <fcntl.h>
 #include <stdio.h>
 #include <string.h>
-#include "RENDU-GNL/get_next_line.h"
+#include "FINAL-GNL/get_next_line.h"
 
 int main(int argc, char **argv)
 {
