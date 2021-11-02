@@ -2,7 +2,7 @@
 
 Get_next_line graded 102 by the holy moulinette on December 24, 2020 with the Norm v2. *GNL to be optimized tough.* 
 
-In this repo, you will find : 
+## In this repo, you will find : 
 - FINAL-GNL : where all functions are
 - SUBJECT-GNL-fr.pdf : the subject in french 🥖
 - text.txt : a simple .txt file you need to test the program. The content of this file will be read and printed.
